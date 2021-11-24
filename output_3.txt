@@ -1,0 +1,15 @@
+5
+P OR T
+R
+S
+-Q OR T
+-R
+7
+P
+-Q
+T
+P
+-Q
+T
+{}
+Yes

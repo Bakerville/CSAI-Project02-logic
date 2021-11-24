@@ -1,0 +1,56 @@
+6
+-R OR S OR U
+-T
+P OR S OR T
+-Q OR S OR T
+-R OR T
+R
+19
+P OR S OR U
+-Q OR S OR U
+-R OR U
+-R OR S
+S OR T
+P OR S OR U
+P OR T
+-Q OR S OR U
+-Q OR T
+-R OR U
+P OR T
+-Q OR T
+-R OR S
+S OR T
+S OR U
+P OR S
+-Q OR S
+-R
+T
+27
+P OR U
+-Q OR U
+P OR U
+-Q OR U
+U
+P OR U
+P OR U
+P
+-Q OR U
+-Q OR U
+-Q
+P OR U
+-Q OR U
+P OR U
+-Q OR U
+U
+P
+-Q
+S
+S
+S
+P
+-Q
+P
+-Q
+S
+{}
+Yes
